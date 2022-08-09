@@ -1,6 +1,6 @@
 # TEK305 Machine Learning Exam
 
-This is a collection of three Jupyter Notebook projects for an exam in the course TEK305 Machine Learning from 2021 at Kristiania University College.
+This is a collection of three [Jupyter Notebook] projects for an exam in the course TEK305 Machine Learning from 2021 at Kristiania University College.
 
 ## Contents:
 
@@ -19,6 +19,7 @@ For a more thorough description, please see the [assignment] document.
 - [scikit-learn]
 - [TensorFlow] - Machine learning platform for problem_3.ipynb
 
+[Jupyter Notebook]: <https://jupyter.org/>
 [problem_1.ipynb]: <problem_1.ipynb>
 [problem_2.ipynb]: <problem_2.ipynb>
 [problem_3.ipynb]: <problem_3.ipynb>
